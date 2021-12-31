@@ -108,21 +108,7 @@ Edit it to read like this
 
 ## file structure
 
-```
-~/Sites/postcss_tailwindcss   87s
-❯ ls -la
-total 104
-drwxr-xr-x   10 gray  staff    320 31 Dec 12:22 .
-drwxr-xr-x   11 gray  staff    352 31 Dec 10:27 ..
--rw-r--r--    1 gray  staff   2470 31 Dec 12:02 build.css
-drwxr-xr-x    3 gray  staff     96 31 Dec 12:00 dist
-drwxr-xr-x  102 gray  staff   3264 31 Dec 10:28 node_modules
--rw-r--r--    1 gray  staff  36076 31 Dec 10:28 package-lock.json
--rw-r--r--    1 gray  staff    382 31 Dec 10:36 package.json
--rw-r--r--    1 gray  staff     81 31 Dec 10:31 postcss.config.js
-drwxr-xr-x    4 gray  staff    128 31 Dec 12:26 src
--rw-r--r--    1 gray  staff    100 31 Dec 10:33 tailwind.config.js
-```
+![File Structure](http://dms.codes/squter/file_structure.png)
 
 ## run scripts
 
